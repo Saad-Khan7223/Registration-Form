@@ -143,9 +143,9 @@ form .button input:hover {
         margin-bottom: 15px;
         width: 100%;
     }
-    /* .gen .category .dot {
+    .gen .category .dot {
         width: 100%;
-    } */
+    }
     .container form .userdetails {
         max-height: 300px;
         overflow-y: scroll;
